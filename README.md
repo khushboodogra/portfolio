@@ -1,12 +1,36 @@
-# React + Vite
+# UI/UX Designer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio showcasing my work and skills in User Interface and User Experience design.
 
-Currently, two official plugins are available:
+## About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I am a passionate UI/UX designer with experience in creating user-centered digital experiences. I specialize in:
 
-## Expanding the ESLint configuration
+- User research and persona development
+- Wireframing and prototyping
+- Visual design with a focus on usability and accessibility
+- Collaboration with developers and stakeholders
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Portfolio Highlights
+
+This portfolio features projects that demonstrate:
+
+- Interactive prototypes
+- Responsive web and mobile designs
+- Case studies outlining problem-solving approaches
+- Tools used: Figma, Adobe XD, Sketch, and more
+
+## Tech Stack
+
+While my primary focus is design, this portfolio is built using:
+
+- **React** and **Vite** for smooth, fast front-end performance
+- **Tailwind CSS** for styling and responsive layouts
+
+## Running Locally
+
+To view and test the portfolio locally:
+
+```bash
+npm install
+npm run dev
