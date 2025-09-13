@@ -1,36 +1,37 @@
-# UI/UX Designer Portfolio
+# 🎨 UI/UX Designer Portfolio
 
-Welcome to my personal portfolio showcasing my work and skills in User Interface and User Experience design.
+Welcome to my personal portfolio showcasing my work and skills in **User Interface (UI)** and **User Experience (UX)** design.
 
-## About Me
+---
 
-I am a passionate UI/UX designer with experience in creating user-centered digital experiences. I specialize in:
+## 👩‍💻 About Me
 
-- User research and persona development
-- Wireframing and prototyping
-- Visual design with a focus on usability and accessibility
-- Collaboration with developers and stakeholders
+I am a passionate UI/UX designer with a strong focus on crafting user-centered digital experiences that are both beautiful and functional. My expertise includes:
 
-## Portfolio Highlights
+- 🔍 **User Research** & Persona Development  
+- 📝 **Wireframing** & **Prototyping**  
+- 🎨 **Visual Design** with an emphasis on **Usability** & **Accessibility**  
+- 🤝 **Collaboration** with Developers, Product Managers & Stakeholders
 
-This portfolio features projects that demonstrate:
+---
 
-- Interactive prototypes
-- Responsive web and mobile designs
-- Case studies outlining problem-solving approaches
-- Tools used: Figma, Adobe XD, Sketch, and more
+## 🧩 Portfolio Highlights
 
-## Tech Stack
+Here’s what you’ll find in my portfolio:
 
-While my primary focus is design, this portfolio is built using:
+- 🖱️ **Interactive Prototypes** that bring ideas to life  
+- 📱 **Responsive Web & Mobile Designs**  
+- 🧠 **Case Studies** showcasing real-world problem solving  
+- 🛠️ **Tools Used** - Figma
 
-- **React** and **Vite** for smooth, fast front-end performance
-- **Tailwind CSS** for styling and responsive layouts
+---
 
-## Running Locally
+## 🚀 Explore My Work
 
-To view and test the portfolio locally:
+Take a look around and feel free to reach out if you’d like to collaborate or just say hi! 😊
 
-```bash
-npm install
-npm run dev
+📫 **Contact**: [Email Me](khushboo981193@gmail.com)
+ 
+🌐 **Website**: [Portfolio]([https://your-portfolio-link.com](https://designs-by-khushboo.netlify.app/))
+
+---
