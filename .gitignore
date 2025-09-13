@@ -1,0 +1,29 @@
+# Node modules (heavy, regenerate with npm/yarn install)
+node_modules/
+
+# Build output (Vite's default build folder)
+dist/
+
+# Vite cache folder (optional but recommended)
+.vite/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# TypeScript build output (if generated)
+*.tsbuildinfo
+
+# Editor/IDE config files (optional, add your own as needed)
+.vscode/
+.idea/
+
+# OS files (optional)
+.DS_Store
+Thumbs.db
