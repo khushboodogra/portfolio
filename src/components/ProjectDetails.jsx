@@ -95,9 +95,6 @@ export default function ProjectDetails() {
                 animate={{ opacity: 1 }}
                 transition={{ duration: 0.8 }}
               />
-              <p className="mt-2 text-lg font-semibold text-center text-gray-700">
-                Home Page
-              </p>
             </div>
           )}
         </div>
