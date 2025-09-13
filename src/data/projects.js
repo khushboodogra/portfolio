@@ -254,12 +254,12 @@ export const projectData = [
           "https://khushboodogra.github.io/TracktoKart-Assets/videos/overview.mp4",
       },
       {
-        "Home Page":
-          "https://khushboodogra.github.io/TracktoKart-Assets/videos/home.mp4",
+        "Product Page":
+          "https://khushboodogra.github.io/TracktoKart-Assets/videos/product.mp4",
       },
       {
-        "Cart Page":
-          "https://khushboodogra.github.io/TracktoKart-Assets/videos/cart.mp4",
+        "Payment Page":
+          "https://khushboodogra.github.io/TracktoKart-Assets/videos/payment.mp4",
       },
     ],
     story: [
