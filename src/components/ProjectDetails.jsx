@@ -83,10 +83,10 @@ export default function ProjectDetails() {
           </div>
 
           {/* Right side: Video */}
-          {project.videos[1]["Home Page"] && (
+          {project.videos[0]["App Overview"] && (
             <div className="flex flex-col items-center">
               <motion.video
-                src={project.videos[1]["Home Page"]}
+                src={project.videos[0]["App Overview"]}
                 autoPlay
                 loop
                 muted
